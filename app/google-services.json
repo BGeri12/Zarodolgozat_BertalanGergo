@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078776156982",
+    "firebase_url": "https://fir-zarodolgozat-default-rtdb.firebaseio.com",
+    "project_id": "fir-zarodolgozat",
+    "storage_bucket": "fir-zarodolgozat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078776156982:android:63628470c1e4245cb4d997",
+        "android_client_info": {
+          "package_name": "com.example.zarodolgozat_bertalangergo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078776156982-umkdhvt591g0tudahefqd6n4t3grfr34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fM8ofI0ES7vD914Hpa8qz54BY0Ms4cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078776156982-umkdhvt591g0tudahefqd6n4t3grfr34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
